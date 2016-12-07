@@ -16,6 +16,3 @@ This program was developed as part of an assignment in the lecture
 "Security and Cryptology" by Prof. Weber at Saarland University of Applied Sciences (htw saar)
 
 The program is pretty self explanatory and contains a set of sample values. Feel free to adjust these or adapt the program to your needs.
-
-# License
-This program is licensed under the  Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) Creative Commons license.
