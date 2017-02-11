@@ -1,5 +1,5 @@
 
-# Pollard's Roh Algorithm for discrete logarithms in Python
+# Pollard's Rho Algorithm for discrete logarithms in Python
 
 This is a simple, yet straight forward implementation of Pollard's rho algorithm for discrete logarithms
 It computes X such that G^X = H mod P.
