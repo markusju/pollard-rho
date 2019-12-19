@@ -9,7 +9,7 @@ p must be a safe prime, such that there is a prime q for which p = 2q+1 holds tr
 
 The algorithm was designed using a "Hase/Igel" (German: Rabbit/Hedgehog) approach.
 Meaning there are two independent computations of Pollard's rho at different speeds.
-The algorithm stops, when the slower "Igel" has overtaken the faster rabbit and their X values are equal.
+The algorithm stops, when the slower hedgehog has overtaken the faster rabbit and their X values are equal.
 
 This software was built for educational purposes and could be improved regarding efficiency:
 * Computation of the Inverse could be solved using Fermat's Little Theorem instead of the Euclidean Algorithm
