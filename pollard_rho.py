@@ -81,7 +81,7 @@ def pollard(G, H, P):
         # Hedgehog
         x, a, b = xab(x, a, b, (G, H, P, Q))
 
-        # Rabbit
+        # Hare
         X, A, B = xab(X, A, B, (G, H, P, Q))
         X, A, B = xab(X, A, B, (G, H, P, Q))
 
